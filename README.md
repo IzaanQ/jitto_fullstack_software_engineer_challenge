@@ -63,5 +63,8 @@ RETRIEVE A SINGLE ITEM WITH ID:
 
 ![jitto 15](https://github.com/IzaanQ/jitto_fullstack_software_engineer_challenge/assets/77301724/ffbcc6e6-75ba-4945-8113-870576b81f03)
 
+AWS CloudWatch:
+
+![Screenshot 2023-10-27 020127](https://github.com/IzaanQ/jitto_fullstack_software_engineer_challenge/assets/77301724/6166ada0-ae86-4c6b-ad8b-2060a9ea34f2)
 
 
